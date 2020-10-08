@@ -1,0 +1,19 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "cypress"
+  ],
+  "author": "Grzegorz",
+  "license": "ISC"
+}
